@@ -1,0 +1,62 @@
+GetPostings 
+acum
+Postings List:  33472 33498 
+GetPostings 
+adiantou
+Postings List:  33473 33515 33516 
+GetPostings 
+afhold
+Postings List:  6 
+TaatOr
+acum adiantou afhold 
+Results: 6 33472 33473 33498 33515 33516 
+
+Number of documents in results:6
+No.of Comparisons:4
+TaatAnd
+acum adiantou afhold 
+Result:empty
+
+Number of documents in results:0
+No.of Comparisons:3
+DaatAnd
+acum adiantou afhold 
+Results: empty
+Number of documents in result: 0
+Number of comparisons:1
+DaatOr
+acum adiantou afhold 
+Results:6 33472 33473 33498 33515 33516 
+Number of documents in result: 6
+Number of comparisons:11
+GetPostings 
+afgiv
+Postings List:  8 
+GetPostings 
+adspurg
+Postings List:  7 8 
+GetPostings 
+aufbau
+Postings List:  31813 32092 
+TaatOr
+afgiv adspurg aufbau 
+Results: 7 8 31813 32092 
+
+Number of documents in results:4
+No.of Comparisons:4
+TaatAnd
+afgiv adspurg aufbau 
+Result:empty
+
+Number of documents in results:0
+No.of Comparisons:3
+DaatAnd
+afgiv adspurg aufbau 
+Results: empty
+Number of documents in result: 0
+Number of comparisons:3
+DaatOr
+afgiv adspurg aufbau 
+Results:7 8 31813 32092 
+Number of documents in result: 4
+Number of comparisons:8
